@@ -1,2 +1,2 @@
 # Student_Result_Managment_System
-Student_Result_Managment_System Using Java Swing App Frame  is a project where we can register students details and their results using login and password. JAVA,JFRAME,JAVA SWING,MYSQL,NETBEANS.
+Student_Result_Managment_System Using Java Swing App Frame Student_Result_Managment_System is a project where we can register students details and their results using admin login and password. It contains two parts one for Student's login and another for Admin login. Admin can login and enter the results and register for new students. Student can login via registration number and can see the results. JAVA,JFRAME,JAVA SWING,MYSQL,NETBEANS.
